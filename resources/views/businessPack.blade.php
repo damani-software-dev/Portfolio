@@ -37,13 +37,13 @@
                 <label>Contact Us...</label>
                 <div class="contact-line"></div>
                 <img id="fb" src="img/facebook.png.png">
-                <img id="insta" src="img/instagram.png">
+                <a href="https://instagram.com/fullstack__?igshid=117gdydge3idl"><img id="insta" src="img/instagram.png"></a>
                 <img id="youtube" src="img/youtube.png">
             </form>
     </div>
 </body>
 <style>
 
-    
+
 </style>
 </html>

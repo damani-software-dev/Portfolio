@@ -35,7 +35,7 @@
             <i id="dot3" class="fas fa-ellipsis-h"></i>
         </div>
     </div>
-    <h1 id="web-section" class="web-header">List of Websites</h1>
+    <h1 id="web-section" class="web-header">Websites</h1>
     <div class="grid4">
         <div class="container-site1">
             <img id="pandora" src="/img/pandora.jpg"/>

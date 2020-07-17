@@ -53,16 +53,6 @@
                     </div>
                 </div>
                 </div>
-                <script>
-                    document.getElementById('click_btn').addEventListener('click', function(){
-                        document.querySelector('.model2container').style.display = 'flex';
-
-                    });
-
-                    document.querySelector('.close-model2').addEventListener('click', function(){
-                        document.querySelector('.model2container').style.display ='none';
-                    });
-                </script>
                 <div class="grey-layout2">
                     <div class="tool">
                         <img id="tool" src="/img/tool.png">
@@ -153,18 +143,21 @@
                     <h2 class="service-header">What makes my Design Unique ?</h2>
                     <div class="service-line"></div>
                     <p class="body-para">I specialized in making unique websites, mostly html, css are being used and also php laravel.<br>
-                    Am willing to help my clients to achieve a great websites for there business, i dedicate my self to provide my client with good work quality,
-                    <br>Custom Designs, high quality graphic design and mostly being user friendly so that persons who go on your business page will able <br>to navigate through out the website.</p>
+                    Am willing to help my clients to achieve a great websites for there business, <br>
+                    i dedicate my self to provide my client with
+                    <br>good work quality. Custom Designs, high quality graphic design and mostly being user friendly <br>
+                    so that persons who go on your business page will able to navigate through out the website.</p>
                     <img id="fullstack" src="img/fullstack.png">
                     <footer>
                         <div class="contact-info">
                             <label>Contact Us</label>
                             <div class="contact-line"></div>
                             <img id="fb" src="img/facebook.png.png">
-                            <img id="insta" src="img/instagram.png">
+                            <a href="https://instagram.com/fullstack__?igshid=117gdydge3idl"><img id="insta" src="img/instagram.png"></a>
                             <img id="youtube" src="img/youtube.png">
+
                         </div>
-                            <p>Copyright © 2020 MyPortfolio. All rights reserved.</p>
+                            <p>Copyright © 2020 fullStack__. All rights reserved.</p>
                     </footer>
 
                 </div>
