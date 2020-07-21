@@ -145,8 +145,8 @@
                     <p class="body-para">I specialized in making unique websites, mostly html, css are being used and also php laravel.<br>
                     Am willing to help my clients to achieve a great websites for there business, <br>
                     i dedicate my self to provide my client with
-                    <br>good work quality. Custom Designs, high quality graphic design and mostly being user friendly <br>
-                    so that persons who go on your business page will able to navigate through out the website.</p>
+                    good work quality. Custom Designs,<br>high quality graphic design and mostly being user friendly
+                    so that persons who <br>go on your business page will able to navigate through out the website.</p>
                     <img id="fullstack" src="img/fullstack.png">
                     <footer>
                         <div class="contact-info">

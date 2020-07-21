@@ -313,6 +313,10 @@ cursor: pointer;
         display: none;
     }
 
+    .black-strip{
+       display: none;
+        }
+
     .grid1{
         display: none;
         }
@@ -372,6 +376,28 @@ cursor: pointer;
         background-repeat: no-repeat;
         background-size: cover;
     }
+
+    .nav-container1{
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: white;
+        width: 499px;
+        height: 60px;
+        border-bottom: 1px solid lightgray;
+        box-shadow: 0.5px 0.5px 0.5px;
+        color:black;
+
+        }
+
+        .black-strip{
+            display: none;
+            }
+
+            .wide-grid{
+                display: none;
+                }
+
 
     .header{
         display: none;
